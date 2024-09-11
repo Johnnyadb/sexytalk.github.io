@@ -1,0 +1,28 @@
+# 全局规则，适用于所有爬虫
+User-agent: *
+# 允许访问以下目录和页面
+Allow: /
+Allow: /archives/
+Allow: /categories/
+Allow: /tags/
+
+# 禁止爬虫访问以下资源文件夹（不影响网站渲染，但不让搜索引擎抓取这些内容）
+Disallow: /vendors/
+Disallow: /fonts/
+Disallow: /images/
+Disallow: /fancybox/
+
+# 对于静态资源(js, css)，视情况决定是否禁用。Google 等搜索引擎更喜欢抓取这些资源来了解页面布局
+# 如果你不介意静态资源被抓取，可以移除下面这两行：
+Disallow: /js/
+Disallow: /css/
+
+# 针对特定爬虫的规则（例如，百度爬虫）
+User-agent: Baiduspider
+Allow: /
+Disallow: /images/
+Disallow: /fonts/
+
+# 提供 Sitemap 路径，帮助搜索引擎更好地索引内容
+Sitemap: https://sexytalk.mjsj.sbs/sitemap.xml
+Sitemap: https://sexytalk.mjsj.sbs/baidusitemap.xml
