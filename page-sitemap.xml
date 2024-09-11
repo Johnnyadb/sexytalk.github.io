@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
     <url>
-        <loc>http://example.com/</loc>
+        <loc>https://sexytalk.mjsj.sbs/</loc>
         <changefreq>daily</changefreq>
         <priority>1</priority>
     </url>
@@ -10,7 +10,7 @@
     
     
     <url>
-        <loc>http://example.com/tags/</loc>
+        <loc>https://sexytalk.mjsj.sbs/tags/</loc>
         <lastmod>2024-09-09T18:56:33.325Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -19,7 +19,7 @@
     
     
     <url>
-        <loc>http://example.com/categories/</loc>
+        <loc>https://sexytalk.mjsj.sbs/categories/</loc>
         <lastmod>2024-09-09T18:56:22.713Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
@@ -28,7 +28,7 @@
     
     
     <url>
-        <loc>http://example.com/404/</loc>
+        <loc>https://sexytalk.mjsj.sbs/404/</loc>
         <lastmod>2024-09-09T17:33:42.779Z</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
