@@ -16,6 +16,8 @@ Disallow: /fancybox/
 # 如果你不介意静态资源被抓取，可以移除下面这两行：
 # Disallow: /js/
 # Disallow: /css/
+Allow: /js/
+Allow: /css/
 
 # 针对特定爬虫的规则（例如，百度爬虫）
 User-agent: Baiduspider
